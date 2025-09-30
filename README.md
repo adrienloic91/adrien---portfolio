@@ -15,6 +15,7 @@ It also calculates the resulting day of the week and how many days later it will
 
 ### 3. Budget App
 [View Project →](https://github.com/YOUR-USERNAME/budget-app)
+
 A Python project that simulates a budget system with deposits, withdrawals, transfers, and a spending chart.
 
 **Features:**
